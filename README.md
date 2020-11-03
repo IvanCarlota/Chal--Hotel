@@ -16,7 +16,7 @@ CSS3
 * Run the project:
 >    $ Open in your browser
 
- ##  It's a personal Blog :D fictitious
+ ##  It's a Chalet hotel :D fictitious
 
 **Desktop Size**
 ![Initial page](https://github.com/IvanCarlota/Chal--Hotel/blob/master/imagens/public/readme/1.png)
@@ -27,8 +27,7 @@ CSS3
 **Average size**
 ![Initial page](https://github.com/IvanCarlota/Chal--Hotel/blob/master/imagens/public/readme/3.png)
 
-**
-Small size**
+**Small size**
 ![Initial page](https://github.com/IvanCarlota/Chal--Hotel/blob/master/imagens/public/readme/4.png)
 
 
