@@ -19,16 +19,16 @@ CSS3
  ##  It's a Chalet hotel :D fictitious
 
 **Desktop Size**
-![Initial page](https://github.com/IvanCarlota/Chal--Hotel/blob/master/imagens/public/readme/1.png)
+![Initial page](https://github.com/IvanCarlota/Chal--Hotel/blob/main/imagens/public/readme/1.png)
 
 **Tablet Size**
-![Initial page](https://github.com/IvanCarlota/Chal--Hotel/blob/master/imagens/public/readme/2.png)
+![Initial page](https://github.com/IvanCarlota/Chal--Hotel/blob/main/imagens/public/readme/2.png)
 
 **Average size**
-![Initial page](https://github.com/IvanCarlota/Chal--Hotel/blob/master/imagens/public/readme/3.png)
+![Initial page](https://github.com/IvanCarlota/Chal--Hotel/blob/main/imagens/public/readme/3.png)
 
 **Small size**
-![Initial page](https://github.com/IvanCarlota/Chal--Hotel/blob/master/imagens/public/readme/4.png)
+![Initial page](https://github.com/IvanCarlota/Chal--Hotel/blob/main/imagens/public/readme/4.png)
 
 
 ## Links
