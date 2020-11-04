@@ -1,7 +1,5 @@
 # Chalé-Hotel
-Projeto criado para treinar conceitos de layout líquido com CSS3.
 
-## My Personal Portfolio
 This is my fourth project made with HTML5 and CSS3, this project shows how to implement a layout that adapts to various screen sizes. :)
 
 ## Technology 
